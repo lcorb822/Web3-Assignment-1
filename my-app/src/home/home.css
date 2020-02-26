@@ -1,0 +1,11 @@
+.middleText {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    background-color: darkgrey;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

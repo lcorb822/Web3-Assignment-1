@@ -1,0 +1,14 @@
+
+.movieTable {
+  overflow: scroll;
+}
+.favorites {
+  display:  inline;
+  padding: 10px;
+}
+.test {
+  background-color: aqua;
+}
+.favPoster{
+  padding: 5px;
+}
